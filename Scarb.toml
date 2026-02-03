@@ -1,0 +1,13 @@
+[package]
+name = "subtraction_contract"
+version = "0.1.0"
+edition = "2025_12"
+
+[dependencies]
+starknet = "2.15.0"
+
+[cairo]
+emit-casm = false
+
+
+[[target.starknet-contract]]

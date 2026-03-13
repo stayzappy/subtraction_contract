@@ -50,4 +50,5 @@ Notes:
 - This contract is minimal and does not store state.
 - Compatible with Cairo and Sepolia testnet.
 - The subtract function is pure and does not modify storage.
+![1](https://github.com/user-attachments/assets/1661947b-e551-4abe-a648-a586ed88e19a)
 
